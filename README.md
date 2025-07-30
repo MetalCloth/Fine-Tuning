@@ -70,8 +70,8 @@ Expected:
 ## 📁 File Structure
 
 ```
-├── Copy of Fine-Tune.ipynb   # 💥 Everything is in here
-├── product_data.jsonl            # (optional) saved dataset
+├── Fine-Tune.ipynb   # 💥 Everything is in here
+├── Data.jsonl            # (optional) saved dataset
 ├── README.md                     # you're reading this
 ```
 
